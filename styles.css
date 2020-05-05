@@ -33,7 +33,7 @@ line-height: 150px;
   padding-left: 20px;
 }
 .container {
-  max-width: 1000px;
+  max-width: 1500px;
   margin: 0 auto;
 }
 .post {
@@ -69,9 +69,6 @@ p {
 #footer {
   background-color: #2f2f2f;
   padding: 50px 0;
-}
-#footer {
- background-size: contain;
 }
 .column {
   min-width: 300px;
