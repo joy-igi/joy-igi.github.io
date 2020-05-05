@@ -93,15 +93,6 @@ a:hover {
 .about {
   text-align: left;
 }
-.title {
-  font-family: 'Montserrat', sans-serif;
-}
-.header a{
-color: white;
-text-decoration: none;
-text-transform: uppercase;
-letter-spacing: 0.1em;
-}
 .about-author img {
   width: 150px;
   height: 150px;
