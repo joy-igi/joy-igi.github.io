@@ -78,14 +78,17 @@ p {
 #footer h4 {
   color: white;
   text-transform: uppercase;
+  text-align: justify;
   letter-spacing: 0.1em;
 }
 #footer p {
   color: white;
+  text-align: justify;
 }
 a {
   color:#1abc9c;
   text-decoration: none;
+  text-align: justify;
 }
 a:hover {
   color: #F6A623;
