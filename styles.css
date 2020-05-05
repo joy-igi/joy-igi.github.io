@@ -71,7 +71,7 @@ p {
   padding: 50px 0;
 }
 #footer {
- background-size: auto;
+ background-size: contain;
 }
 .column {
   min-width: 300px;
