@@ -70,6 +70,10 @@ p {
   background-color: #2f2f2f;
   padding: 50px 0;
 }
+#footer {
+  padding-left: 150px;
+  padding-right: 150px;
+}
 .column {
   min-width: 300px;
   display: inline-block;
