@@ -71,24 +71,21 @@ p {
   padding: 50px 0;
 }
 .column {
-  min-width: 300px;
+  min-width: 1000px;
   display: inline-block;
   vertical-align: top;
 }
 #footer h4 {
   color: white;
   text-transform: uppercase;
-  text-align: right;
   letter-spacing: 0.1em;
 }
 #footer p {
   color: white;
-  text-align: right;
 }
 a {
   color:#1abc9c;
   text-decoration: none;
-  text-align: right;
 }
 a:hover {
   color: #F6A623;
